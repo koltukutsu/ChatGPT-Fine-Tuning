@@ -1,0 +1,17 @@
+prompt,completion
+prompt 1,"response 1
+
+Ayrıca bu konuyla ilgili daha fazla bilgi için şu videomuza da göz atabilirsiniz:
+link 1
+        
+        Ayrıca bu konuyla ilgili daha fazla bilgi için şu videomuza da göz atabilirsiniz:
+        link 1
+        "
+prompt 2,"response 2
+
+Ayrıca bu konuyla ilgili daha fazla bilgi için şu videomuza da göz atabilirsiniz:
+link 2
+        
+        Ayrıca bu konuyla ilgili daha fazla bilgi için şu videomuza da göz atabilirsiniz:
+        link 2
+        "
