@@ -1,7 +1,7 @@
 # Fine-Tuning ChatGPT
 This project is created to fine tune task-specific ChatGPT models so that its true power could be yield in specific contexts.
 
-(Click to See the Result Report)[reports/result-report.pdf]
+[Click to See the Result Report](reports/result-report.pdf)
 
 ### Folder Structure
 ```bash
